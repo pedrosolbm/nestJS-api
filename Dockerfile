@@ -16,4 +16,4 @@ COPY . .
 
 EXPOSE 5555
 
-CMD npm run start
+CMD npm run start:dev
